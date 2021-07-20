@@ -1,3 +1,3 @@
-- 👋  Olá, me chamo Pedro Henrique Pereira Almeida, estudante de Análise e Desenvolvimento de Sistemas da FATEC Carapicuíba.
+- 👋  Olá, me chamo Pedro Henrique Pereira Almeida, sou estudante de Análise e Desenvolvimento de Sistemas da FATEC Carapicuíba.
 - 👀  Estou atualmente aprendendo Python, C, VBA e SQL.
 - 📫  Para entrar em contato comigo -> pedro.6571almeida@gmail.com.
