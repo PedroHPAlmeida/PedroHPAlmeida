@@ -1,5 +1,5 @@
 - 👋  Olá, me chamo Pedro Henrique Pereira Almeida, sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba.
-- 👀  Estou atualmente aprendendo Python, Java e SQL.
+- 👀  Estou atualmente aprendendo Java, Spring Boot, e Python.
 - 📫  Para entrar em contato comigo -> pedro.6571almeida@gmail.com.
 
 <div>
@@ -10,9 +10,10 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
+  <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
