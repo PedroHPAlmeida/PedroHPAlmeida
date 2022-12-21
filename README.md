@@ -15,9 +15,8 @@
   <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Pedro-Actions" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://avatars.githubusercontent.com/u/44036562?s=200&v=4)">
-</div> 
-  ##
+  <img align="center" alt="Pedro-Actions" height="30" width="40" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
+</div>
   
   <div> 
   <a href = "mailto:pedro.6571almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
