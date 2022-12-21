@@ -15,7 +15,7 @@
   <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Pedro-Actions" height="30" width="40" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
+  <img align="center" alt="Pedro-Actions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
 </div>
   
   <div> 
