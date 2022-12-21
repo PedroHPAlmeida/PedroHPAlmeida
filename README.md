@@ -18,8 +18,9 @@
   <img align="center" alt="Actions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
   <img align="center" alt="Terraform" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 </div>
-  
-  <div> 
+
+
+<div> 
   <a href = "mailto:pedro.6571almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-pereira-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
