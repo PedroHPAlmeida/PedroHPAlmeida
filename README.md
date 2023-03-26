@@ -1,5 +1,5 @@
 - 👋  Olá, me chamo Pedro Henrique Pereira Almeida, sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba.
-- 👀  Estou atualmente aprendendo Java, Spring Boot, e Python.
+- 👀  Estou atualmente aprendendo Kubernetes, Python/Flask e AWS.
 - 📫  Para entrar em contato comigo -> pedro.6571almeida@gmail.com.
 
 <div>
