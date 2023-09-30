@@ -1,5 +1,4 @@
 - 👋  Olá, me chamo Pedro Henrique Pereira Almeida, sou formado em Ánalise e Desenvolvimento de Sistemas e atualmente atuo como desenvolvedor back-end.
-- 👀  Estou atualmente aprendendo Kubernetes, Python/Flask e AWS.
 - 📫  Para entrar em contato comigo -> pedro.6571almeida@gmail.com.
 
 <div>
