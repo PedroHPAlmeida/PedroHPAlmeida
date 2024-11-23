@@ -1,5 +1,5 @@
-- 👋  Olá, me chamo Pedro Henrique Pereira Almeida, sou formado em Ánalise e Desenvolvimento de Sistemas e atualmente atuo como desenvolvedor back-end.
-- 📫  Para entrar em contato comigo -> pedro.6571almeida@gmail.com.
+- 👋  Hello, my name is Pedro Henrique Pereira Almeida, I have a degree in Systems Analysis and Development and I currently work as a software engineer.
+- 📫  To contact me -> pedro.6571almeida@gmail.com.
 
 <div>
   <a href="https://github.com/PedroHPAlmeida">
